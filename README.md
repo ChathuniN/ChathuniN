@@ -1,5 +1,6 @@
-<h1 align="cente![Uploading WhatsApp Image 2024-01-30 at 11.02.36.jpeg…]()
-r">Hi 👋, I'm Chathuni Nayanathara</h1>
+![WhatsApp Image 2024-01-30 at 11 02 36](https://github.com/ChathuniN/ChathuniN/assets/99313592/77595aa1-2437-46bb-ba45-02341a7c1193)
+
+<h1>Hi 👋, I'm Chathuni Nayanathara</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathunin&label=Profile%20views&color=0e75b6&style=flat" alt="chathunin" /> </p>

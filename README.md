@@ -1,4 +1,5 @@
-https://github.com/ChathuniN/ChathuniN/assets/99313592/d8211ca4-0489-4fa7-b45f-d0a5b5d46a2a
+![WhatsApp Image 2024-01-30 at 11 19 31](https://github.com/ChathuniN/ChathuniN/assets/99313592/7dc02cf6-dc67-4cad-bae8-6a3eac944ba9)
+
 
 <h1 align="center">Hi 👋, I'm Chathuni Nayanathara</h1>
 <h3 align="center">Undergraduate at SLIIT</h3>

@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-01-30 at 11 19 31](https://github.com/ChathuniN/ChathuniN/assets/99313592/7dc02cf6-dc67-4cad-bae8-6a3eac944ba9)
+  ![WhatsApp Image 2024-01-30 at 11 19 31](https://github.com/ChathuniN/ChathuniN/assets/99313592/7dc02cf6-dc67-4cad-bae8-6a3eac944ba9)
 
 
 <h1 align="center">Hi 👋, I'm Chathuni Nayanathara</h1>
